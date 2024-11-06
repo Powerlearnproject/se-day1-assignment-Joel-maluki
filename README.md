@@ -55,18 +55,34 @@ What are some common challenges faced by software engineers? Provide strategies 
                      Tight deadlines which pressure developers to deliver software within tight schedules of time.
                       Technical  debt which increases the maintenance cost
                       Changing requirements 
-These challenges can be overcome by;
-                  Reassesments of project goals and timelines 
-                  The use of agile methologies
-                  Prioritazation oF Tasks
-                  and effective communication
+         These challenges can be overcome by;
+                           Reassesments of project goals and timelines 
+                           The use of agile methologies
+                           Prioritazation oF Tasks
+                           and effective communication
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+Unit testing - Tests individual components (functions, methods, or classes) in isolation.
+                  importance
+                  Catches bugs early in development.
+                  Facilitates code refactoring with minimal risk.
 
+Integration - Tests how different modules or components work together.Verifies interfaces and interactions between the integrated parts.
+                  importance
+                -  Ensures that modules work as a cohesive system.
+               -   Helps detect integration issues that unit tests may miss.
 
+System testing- Tests the entire software system as a complete entity
+                   importance
+               -   Ensures the software operates correctly in its full environment.
+              -    Confirms that all components work together as expected.
+               -   Helps identify any performance, security, or usability issues.
 
-
+Acceptance testing -  Validates the software against user requirements or business needs. 
+                  Importance:
+              -    Confirms the software is ready for release.
+              -    Increases client satisfaction by aligning with their expectations.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
