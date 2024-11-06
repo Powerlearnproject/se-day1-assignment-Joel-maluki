@@ -55,7 +55,11 @@ What are some common challenges faced by software engineers? Provide strategies 
                      Tight deadlines which pressure developers to deliver software within tight schedules of time.
                       Technical  debt which increases the maintenance cost
                       Changing requirements 
-
+These challenges can be overcome by;
+                  Reassesments of project goals and timelines 
+                  The use of agile methologies
+                  Prioritazation oF Tasks
+                  and effective communication
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
