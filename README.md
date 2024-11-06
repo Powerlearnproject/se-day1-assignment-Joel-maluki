@@ -4,27 +4,31 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Explain what software engineering is and discuss its importance in the technology industry.
+1. Explain what software engineering is and discuss its importance in the technology industry.
 
 - Software Engineering is the sytematic application of Engineering Principles, Methods and tools to solve develop and maintain high quality software sytems.
 - Software Engineering is essential since it has enabled people to create software/Applications that power the modern aspects of life.
 
 
-Identify and describe at least three key milestones in the evolution of software engineering.
+2. Identify and describe at least three key milestones in the evolution of software engineering.
 
-1. The development of programming languages such such structured programming, which enbled software engnineers to write code that run on compilers
-2. Establishment of software engineering as a discpline in 1960 which enable people to recognise and venture deeper into software engineering
-3. The rise of agile methodologies in the 2000s which has enabled engineers to choose have rapid development of computer system with a choosen siimple methodolgy.
+a. The development of programming languages such such structured programming, which enbled software engnineers to write code that run on compilers
+b. Establishment of software engineering as a discpline in 1960 which enable people to recognise and venture deeper into software engineering
+c. The rise of agile methodologies in the 2000s which has enabled engineers to choose have rapid development of computer system with a choosen siimple methodolgy.
    
 
+3. List and briefly explain the phases of the Software Development Life Cycle.
 
-List and briefly explain the phases of the Software Development Life Cycle.
+a, Requirements specification - The Programmer gathers information and documents the user needs and system requirements
+b, System Design - The User designs the architect of the prospective software such as the user interface
+c, system Implemantaion - using The design specifications to write code that will later be implemented to the final system
+System testing - using different system testing such as dry running to debug the code and make sure it is error free.
+d,Deployment  - releasing the software to the final users /customers
+e,System maintenance - Providing future enhancements and updates to the current system to meet the current user needs 
 
 
 
-
-
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 
 
